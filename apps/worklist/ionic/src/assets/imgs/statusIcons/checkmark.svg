@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/status/checkmark/filled/16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/status/checkmark/filled/16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="icon-color" fill="#24A148" cx="8" cy="8" r="7"></circle>
+        <polygon id="icon-color" fill="#FFFFFF" points="7 10.75 4.5 8.25 5.295 7.5 7 9.175 10.705 5.5 11.5 6.29"></polygon>
+    </g>
+</svg>

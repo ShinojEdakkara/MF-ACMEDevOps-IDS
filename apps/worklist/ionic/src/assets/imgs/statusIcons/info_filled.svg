@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/status/info/filled/16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,5 C7.58578644,5 7.25,4.66421356 7.25,4.25 C7.25,3.83578644 7.58578644,3.5 8,3.5 C8.41421356,3.5 8.75,3.83578644 8.75,4.25 C8.75,4.66421356 8.41421356,5 8,5 Z M10.01,12.065 L6.01,12.065 L6.01,10.94 L7.45,10.94 L7.45,7.565 L6.51,7.565 L6.51,6.44 L8.575,6.44 L8.575,7 L8.575,7.565 L8.575,10.94 L10.01,10.94 L10.01,12.065 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/status/info/filled/16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="icon-color" fill="#595555" cx="8" cy="8" r="7"></circle>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="icon-color" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>

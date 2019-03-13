@@ -1,0 +1,1 @@
+{"projectLocation":"/Users/worklight/myLocal/Temp/","projectName":"worklist","projectVersion":"1.0.0","projectBundleId":"com.ibm.acme.worklist","projectIcon":"","platforms":["android"],"createOnServer":true,"server":{"mfpUrl":"http://10.0.0.1:9080","confidentialServerUrl":"/mfp/api/az/v1/token"}}
