@@ -131,12 +131,12 @@ public class WorklistResource {
 		return user;
 	}
 
+	/* Returns all the open work lists */
 	@GET
 	@Path("/openEntries")
 	@Produces(MediaType.TEXT_PLAIN)
 	@OAuthSecurity(enabled = false)
 	public String getOpenEntries() throws Exception {
-		System.out.println("in GET");
 		List<Workitem> entries = getDB().view("_all_docs").includeDocs(true).query(Workitem.class);
 		//return Response.ok(entries).build();
 		return String.valueOf(entries.size());
