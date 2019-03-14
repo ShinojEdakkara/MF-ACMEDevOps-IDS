@@ -37,7 +37,6 @@ import org.lightcouch.NoDocumentException;
 import com.cloudant.client.api.Database;
   
 
-
 @Path("/workitems")
 @OAuthSecurity(enabled = true)
 public class WorklistResource {
@@ -47,7 +46,8 @@ public class WorklistResource {
 
 	@Context
 	AdaptersAPI adaptersAPI;
-
+	
+	/* The Cloudant DB Configration */
 	private Database getDB() throws Exception {
 		System.out.println("in getDB(): "+ adaptersAPI.getJaxRsApplication(WorklistApplication.class));
 		WorklistApplication app = adaptersAPI.getJaxRsApplication(WorklistApplication.class);
