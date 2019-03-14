@@ -131,6 +131,7 @@ public class WorklistResource {
 		return user;
 	}
 
+	/*Gets all the open worklists*/
 	@GET
 	@Path("/openEntries")
 	@Produces(MediaType.TEXT_PLAIN)
