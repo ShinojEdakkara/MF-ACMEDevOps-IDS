@@ -24,9 +24,9 @@ limitations under the License.
 
 	<JAXRSApplicationClass>com.ibm.worklist.WorklistApplication</JAXRSApplicationClass>
 
-	<property name="account" displayName="Cloudant URL" defaultValue=""  />
-	<property name="key" displayName="Cloudant Username" defaultValue=""  />
-	<property name="password" displayName="Cloudant password" defaultValue=""  />
-	<property name="DBName" displayName="Cloudant DB name" defaultValue=""/>
+	<property name="account" displayName="Cloudant URL" defaultValue="https://7e6c35b3-9e7c-48a4-ba79-9f71047ed186-bluemix:fa0afc15b3c0f6bc2ed879e7dc7a94fe80210bd37fc79f7171b25521b7042418@7e6c35b3-9e7c-48a4-ba79-9f71047ed186-bluemix.cloudantnosqldb.appdomain.cloud"  />
+	<property name="key" displayName="Cloudant Username" defaultValue="7e6c35b3-9e7c-48a4-ba79-9f71047ed186-bluemix"  />
+	<property name="password" displayName="Cloudant password" defaultValue="fa0afc15b3c0f6bc2ed879e7dc7a94fe80210bd37fc79f7171b25521b7042418"  />
+	<property name="DBName" displayName="Cloudant DB name" defaultValue="workitems"/>
 
 </mfp:adapter>
